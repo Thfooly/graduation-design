@@ -51,7 +51,7 @@ public class EmailServiceImpl implements EmailService {
 
         String s = (String)redisTemplate.opsForValue().get(uuid);
         MailResult mr = JSON.parseObject(s, MailResult.class);
-        if ((new Date().getTime() - mr.getCreateTime().getTime() < 10*60*1000)){
+        if ((new Date().getTime() - mr.getCreateTime().getTime() > 10*60*1000)){
             redisTemplate.delete(uuid);
             throw new RuntimeCommonException(ExceptionEnums.CODE_TIME_OUT);
         }

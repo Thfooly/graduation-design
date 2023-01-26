@@ -10,4 +10,6 @@ public interface RegisterService{
     boolean verifyName(String name);
 
     void saveUser(String name, String username, String password, String email, String phoneNumber);
+
+    User findByUsername(String username);
 }

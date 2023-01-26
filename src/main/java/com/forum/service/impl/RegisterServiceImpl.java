@@ -55,4 +55,11 @@ public class RegisterServiceImpl implements RegisterService {
         userDao.insert(user);
     }
 
+    @Override
+    public User findByUsername(String username) {
+        Example example = new Example(User.class);
+        example.createCriteria().andEqualTo("username", username);
+        return userDao.selectOneByExample(example);
+    }
+
 }
