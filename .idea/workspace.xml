@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e07c544b-c938-46ca-bffc-01cef1e1631d" name="Default" comment="" />
+    <list default="true" id="e07c544b-c938-46ca-bffc-01cef1e1631d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/controller/IndexController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
+            <state relative-caret-position="0">
               <caret line="59" column="23" lean-forward="false" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
               <folding />
             </state>
@@ -26,8 +28,8 @@
       <file leaf-file-name="ChangePwdController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/controller/ChangePwdController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            <state relative-caret-position="216">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,7 +38,7 @@
       <file leaf-file-name="RegisterController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/controller/RegisterController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-433">
+            <state relative-caret-position="270">
               <caret line="43" column="44" lean-forward="false" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
               <folding />
             </state>
@@ -46,7 +48,7 @@
       <file leaf-file-name="RegisterServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/service/impl/RegisterServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-675">
+            <state relative-caret-position="135">
               <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding />
             </state>
@@ -111,7 +113,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/forum/dao/UserMsgDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/forum/common/advice/CommonExceptionHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/forum/common/enums/ExceptionEnums.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/forum/controller/ChangePwdController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/forum/service/impl/IndexServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/forum/service/impl/ChangePwdServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/forum/pojo/User.java" />
@@ -128,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/forum/service/RegisterService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/forum/service/impl/RegisterServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/forum/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/forum/controller/ChangePwdController.java" />
       </list>
     </option>
   </component>
@@ -183,10 +185,9 @@
     <option name="vmOptions" value="-DarcgetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -220,6 +221,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -263,134 +265,12 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="forum" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="advice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -679,7 +559,8 @@
       <workItem from="1673762598931" duration="11366000" />
       <workItem from="1674551118195" duration="4733000" />
       <workItem from="1674580326094" duration="3954000" />
-      <workItem from="1674697718303" duration="12511000" />
+      <workItem from="1674697718303" duration="13398000" />
+      <workItem from="1674712019734" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="登录 注册功能的提交">
       <created>1674710946596</created>
@@ -724,7 +605,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105867000" />
+    <option name="totallyTimeSpent" value="107229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -744,16 +625,15 @@
       <window_info id="JRebel Setup Guide" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32426035" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32814372" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21620172" sideWeight="0.4958775" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32865497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13197425" sideWeight="0.4958775" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22424893" sideWeight="0.5041225" order="2" side_tool="true" content_ui="tabs" />
@@ -764,6 +644,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -961,13 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/controller/PortraitController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/service/impl/ChangePwdServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1006,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,7 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,7 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="68" column="13" lean-forward="false" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="77" column="32" lean-forward="false" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1038,7 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="157" column="8" lean-forward="false" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-199">
           <caret line="102" column="71" lean-forward="true" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,7 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,7 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
           <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="775" column="33" lean-forward="false" selection-start-line="775" selection-start-column="33" selection-end-line="775" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1112,109 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="68" column="11" lean-forward="false" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-          <folding>
-            <marker date="1669610890943" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1669610890943" expanded="false" signature="144:2029" ph="..." />
-            <marker date="1669610890943" expanded="true" signature="2801:2808" ph="{}" />
-            <marker date="1669610890943" expanded="true" signature="2864:3895" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="3954:4104" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="4150:4209" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="4276:4343" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="4431:4789" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="4870:5185" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="5245:5324" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="5392:5596" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="5713:6224" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="6334:6975" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="7042:7392" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="7469:7526" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="7582:7931" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="8026:8133" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="8221:8344" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="8456:8570" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="8653:8755" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="8864:8979" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="9083:9709" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="9815:9926" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="10051:10153" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="10302:11518" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="11603:11702" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="11825:11971" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="12137:12256" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="12443:13853" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="13987:14448" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="14545:15256" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="15361:15430" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="15552:15637" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="15780:15909" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="16095:16780" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="16847:16895" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="16949:17010" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="17091:17758" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="17830:17898" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="17991:18675" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="18746:18814" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="18906:19405" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="19460:19518" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="19604:19684" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="19791:20468" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="20587:20736" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="20846:21003" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="21116:21251" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="21336:21415" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="21524:21666" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="21772:21874" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="21984:22069" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="22203:22336" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="22473:22584" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="22761:23670" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="23676:23694" ph="/**...*/" />
-            <marker date="1669610890943" expanded="true" signature="23805:23899" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="24008:24109" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="24239:24331" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="24443:24563" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="24696:24814" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="24971:25072" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="25248:25361" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="25554:26471" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="26682:27620" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="27697:27812" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="27818:27836" ph="/**...*/" />
-            <marker date="1669610890943" expanded="true" signature="27939:27997" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="28099:28183" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="28306:28573" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="28701:28788" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="28937:29100" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="29245:29412" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="29648:30605" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="30859:31837" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="31868:31911" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="31946:32205" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="32265:32572" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="32629:32957" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="33010:33084" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="33090:33108" ph="/**...*/" />
-            <marker date="1669610890943" expanded="true" signature="33187:33261" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="33338:38131" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="38197:38282" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="38330:38524" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="38567:38651" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="38712:38872" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="38926:39318" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="39372:39764" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="39770:39788" ph="/**...*/" />
-            <marker date="1669610890943" expanded="true" signature="39835:41147" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="41153:41171" ph="/**...*/" />
-            <marker date="1669610890943" expanded="true" signature="41224:42045" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="42051:42069" ph="/**...*/" />
-            <marker date="1669610890943" expanded="true" signature="42121:42803" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="42885:42933" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="43009:43131" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="43192:43281" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="43330:43367" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="43425:43503" ph="{...}" />
-            <marker date="1669610890943" expanded="true" signature="43516:44522" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,7 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1312,7 +1073,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/service/impl/RegisterServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
+        <state relative-caret-position="135">
           <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding />
         </state>
@@ -1320,7 +1081,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/controller/RegisterController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
+        <state relative-caret-position="270">
           <caret line="43" column="44" lean-forward="false" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
           <folding />
         </state>
@@ -1328,16 +1089,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
+        <state relative-caret-position="0">
           <caret line="59" column="23" lean-forward="false" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/controller/PortraitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/forum/controller/ChangePwdController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="216">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
